@@ -1,3 +1,1 @@
-TODO List
-
--> Fix Sound
+Simple game to learn GO
